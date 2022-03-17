@@ -1,0 +1,11 @@
+1;In what year was the first iPhone released?;2007;2
+2;The tallest building in the world is located in which city?;Dubai (Burj Khalifa);4
+3;Who directed Pulp Fiction?;Quentin Tarantino;5
+4;In the Harry Potter book series, which character is described as having a “wild, tangled beard”?;Hagrid;10
+5;How many actors have played the role of James Bond?;Nine;3
+6;What company is also the name of one of the longest rivers in the world?;Amazon;1
+7;In Monsters Inc. what is Sulley’s full name?;James P. Sullivan;4
+8;How many children does Queen Elizabeth have?;Four – Charles, Andrew, Anne and Edward;8
+9;Beirut is the capital of which country?;Lebanon;6
+10;'Stash' is a range of perfume from which Sex and The City actress?;Sarah Jessica Parker;3
+11;Cate mere are Ana?;3;4

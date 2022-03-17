@@ -1,0 +1,4 @@
+C:/Users/night/Documents/GitHub/Projects/Quiz/cmake-build-debug/CMakeFiles/Quiz.dir
+C:/Users/night/Documents/GitHub/Projects/Quiz/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/night/Documents/GitHub/Projects/Quiz/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/night/Documents/GitHub/Projects/Quiz/cmake-build-debug/CMakeFiles/Quiz_autogen.dir
